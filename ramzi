@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>رمزي الغزوي - الكاتب والإعلامي</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .hero {
+            background: #007BFF;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background: #fff;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="about.html">عن الكاتب</a></li>
+                <li><a href="works.html">الأعمال</a></li>
+                <li><a href="media.html">الإعلام</a></li>
+                <li><a href="contact.html">تواصل معنا</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>رمزي الغزوي - الكاتب والإعلامي</h1>
+            <p>اكتشف مسيرة الكاتب الأردني المبدع وأعماله الأدبية والإعلامية.</p>
+        </section>
+        
+        <section class="biography">
+            <h2>السيرة الذاتية</h2>
+            <p>وُلِد رمزي الغزوي في عام 1970 في الأردن. نشأ في عائلة تهتم بالثقافة والأدب، مما أثرى تجربته الأدبية منذ الصغر.</p>
+            <p>درس الأدب العربي في الجامعة الأردنية، حيث حصل على درجة البكالوريوس. بعد التخرج، بدأ العمل كصحفي وكاتب.</p>
+        </section>
+
+        <section class="literary-works">
+            <h2>الأعمال الأدبية</h2>
+            <ul>
+                <li>رواية "أحلام في زمن الحرب" - 1995</li>
+                <li>مجموعة قصصية "أصوات من الماضي" - 2000</li>
+                <li>رواية "الرحيل" - 2005</li>
+                <li>كتاب "تأملات في الأدب العربي" - 2010</li>
+                <li>رواية "العودة إلى الجذور" - 2015</li>
+            </ul>
+        </section>
+
+        <section class="media-appearances">
+            <h2>الظهور الإعلامي</h2>
+            <p>شارك رمزي الغزوي في العديد من البرامج التلفزيونية والإذاعية، حيث ناقش مواضيع أدبية وثقافية.</p>
+            <ul>
+                <li>برنامج "أدب وفن" على قناة الجزيرة - 2012</li>
+                <li>برنامج "الكتاب والمكتبة" على التلفزيون الأردني - 2015</li>
+                <li>مقابلة في برنامج "حديث الثقافة" - 2018</li>
+            </ul>
+        </section>
+
+        <section class="awards">
+            <h2>الجوائز والتكريمات</h2>
+            <ul>
+                <li>جائزة الدولة التشجيعية في الأدب - 2005</li>
+                <li>جائزة أفضل كاتب عربي - 2010</li>
+                <li>جائزة الإبداع الأدبي - 2018</li>
+            </ul>
+        </section>
+
+       
